@@ -1,0 +1,11 @@
+*.pyc
+*.sw[p-z]
+venv*
+env*
+.vscode*
+ecourses/*.log
+ecourses/local_settings.py
+media*
+smedia*
+debug.log*
+

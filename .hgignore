@@ -1,0 +1,8 @@
+^venv/.*
+.*\.py[co]
+ecourses/.*\.db
+.*\.sw[p-z]
+ecourses/.?media/.*
+ecourses/debug\.log
+ecourses/local_settings\.py
+.*\.orig
